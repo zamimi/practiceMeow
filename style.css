@@ -1,10 +1,24 @@
-p {
+.basics {
   font-family: sans-serif;
   color: rgb(89, 0, 255);
 }
-
+/**
 li {
-  background-color: rgb(85, 84, 88);
+  background-color: rgb(167, 167, 168);
   border: 1px solid black;
   margin-bottom: 5px;
+}
+**/
+
+p {
+  color: rgb(57, 30, 106);
+  width: 500px;
+  border: 1px solid black;
+}
+
+html {
+  /* px means "pixels". The base font size is now 10 pixels high */
+  font-size: 10px;
+  /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
+  font-family: 'Roboto', sans-serif;
 }
