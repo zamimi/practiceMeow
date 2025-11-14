@@ -8,4 +8,5 @@ This repository is really to indulge myself in coding. I, currently doing this, 
 <ul> 
     <li> HTML Basics </li>
     <li> CSS Basics </li>
+    <li> Basic Designing </li>
 </ul>
