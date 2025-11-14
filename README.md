@@ -13,4 +13,10 @@ This repository is really to indulge myself in coding. I, currently doing this, 
 11/14/2025 - 
 <ul> 
     <li> Basic Designing </li>
+    <li> JavaScript Basics
+        <ul> 
+            <li> Picture Changing on Click </li>
+            <li> Basic Changing Username Event </li>
+        </ul>
+    </li>
 </ul>
