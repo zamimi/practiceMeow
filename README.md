@@ -10,3 +10,7 @@ This repository is really to indulge myself in coding. I, currently doing this, 
     <li> CSS Basics </li>
     <li> Basic Designing </li>
 </ul>
+11/14/2025 - 
+<ul> 
+    <li> Basic Designing </li>
+</ul>
