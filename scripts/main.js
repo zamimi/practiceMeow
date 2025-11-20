@@ -29,3 +29,7 @@ if (!localStorage.getItem("name")) {
 myButton.addEventListener("click", () => {
     setUserName();
 });
+
+document.querySelector('#open-react-btn').addEventListener('click', function () {
+  window.location.href = 'learningReact/react.html';
+});
